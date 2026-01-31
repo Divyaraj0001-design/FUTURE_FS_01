@@ -44,4 +44,14 @@ https://divyaraj0001-design.github.io/FUTURE_FS_01/
 Divya Raj  
 B.Tech CSE (AI & ML) Student  
 Full Stack Development Enthusiast
+## Screenshots
+
+### Home
+![Home Screenshot](screenshots/home.png)
+
+### Experience
+![Experience Screenshot](screenshots/experience.png)
+
+### Projects
+![Projects Screenshot](screenshots/projects.png)
 
