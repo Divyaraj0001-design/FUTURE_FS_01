@@ -53,5 +53,5 @@ Full Stack Development Enthusiast
 ![Experience Screenshot](screenshots/experience.png)
 
 ### Projects
-![Projects Screenshot](screenshots/projects.png)
+![Projects Screenshot](screenshots/project.png)
 
